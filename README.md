@@ -8,7 +8,7 @@ I'm exploring how neurodiversity insights can create more robust AI systems thro
 
 ### 🚀 Recent Work: Cognitive Architectures for AI
 
-Over 3 weeks, I developed a 7-repository research program bridging empirical neuroscience to practical AI applications:
+I have been developing a 7-repository research program bridging empirical neuroscience to practical AI applications:
 
 - **[TIDE](https://github.com/HillaryDanan/TIDE)** - Temporal-Internal Dimensional Encoding framework
 - **[BIND](https://github.com/HillaryDanan/BIND)** - Boundary Information Neural Dynamics
@@ -23,8 +23,8 @@ Over 3 weeks, I developed a 7-repository research program bridging empirical neu
 ## 📊 Background
 
 - **Cognitive Neuroscience PhD** (2021) - Neural representation of abstract concepts
-- **4+ Years** - Data Science in production environments
-- **Research Focus** - How different minds achieve identical outcomes through alternative pathways
+- **4+ Years** - Data Science in corporate environments
+- **Research Focus** - How different minds/agents achieve identical outcomes through alternative pathways
 
 ## 🎯 Core Insight
 
