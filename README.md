@@ -1,49 +1,49 @@
 # Hillary Danan
+**Data Scientist | Cognitive Neuroscience PhD | Exploring Cognitive Architectures for AI**
 
-**Data Scientist | Cognitive Neuroscience PhD | Building Cognitive Architectures for AI**
+## 🌟 TIDE-Resonance
 
-## 🧠 Current Research
+**[TIDE-Resonance](https://github.com/HillaryDanan/TIDE-resonance)** - Interactive exploration of how different cognitive architectures build trust through shared experiences
 
-I'm exploring how neurodiversity insights can create more robust AI systems through cognitive architectural diversity.
-
-### 🚀 Recent Work: Cognitive Architectures for AI
-
-I have been developing a 7-repository research program bridging empirical neuroscience to practical AI applications:
-
-- **[TIDE](https://github.com/HillaryDanan/TIDE)** - Temporal-Internal Dimensional Encoding framework
-- **[BIND](https://github.com/HillaryDanan/BIND)** - Boundary Information Neural Dynamics
-- **[Concrete-Overflow-Detector](https://github.com/HillaryDanan/concrete-overflow-detector)** - Alternative neural pathway detection
-- **[Information-Atoms](https://github.com/HillaryDanan/information-atoms)** - Discrete information processing units
-- **[Hexagonal-Consciousness Suite](https://github.com/HillaryDanan/hexagonal-consciousness-suite)** - Cognitive organization patterns
-- **[Hexagonal-Vision Research](https://github.com/HillaryDanan/hexagonal-vision-research)** - Visual processing architectures
-- **[Game-Theory-Trust Suite](https://github.com/HillaryDanan/game-theory-trust-suite)** - Architecture-specific cooperation
-
-**[→ View Complete Research Program](https://github.com/HillaryDanan/cognitive-architectures-ai)**
-
-## 📊 Background
-
-- **Cognitive Neuroscience PhD** (2021) - Neural representation of abstract concepts
-- **4+ Years** - Data Science in corporate environments
-- **Research Focus** - How different minds/agents achieve identical outcomes through alternative pathways
-
-## 🎯 Core Insight
-
-*"Cognitive diversity is not a bug to be fixed, but a feature to be understood and leveraged."*
-
-My research shows that what we call "neurodivergent" processing often represents alternative computational strategies that could make AI systems more robust.
-
-## 🛠️ Technical Stack
-
-- **Languages**: Python, R, JavaScript
-- **ML/AI**: PyTorch, TensorFlow, scikit-learn
-- **Neuroscience**: fMRI analysis, computational modeling
-- **Visualization**: D3.js, Plotly, matplotlib
-
-## 📫 Connect
-
-- **GitHub**: [@HillaryDanan](https://github.com/HillaryDanan)
-- **Research**: [Cognitive Architectures for AI](https://github.com/HillaryDanan/cognitive-architectures-ai)
+### Live Demos:
+- 🎵 **[Main Experience](https://hillarydanan.github.io/TIDE-resonance/)** - Real-time visualization of trust dynamics
+- 🧪 **[Interactive Lab](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)** - Explore resonance patterns
+- 🔬 **[Research Laboratory](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Advanced simulation environment
 
 ---
 
-*Currently seeking opportunities to apply neuroscience insights to AI safety and alignment challenges.*
+## 🧠 Research Focus
+
+Exploring how cognitive diversity creates computational advantages through mathematical frameworks and interactive visualizations.
+
+### Core Frameworks:
+- **[TIDE](https://github.com/HillaryDanan/TIDE)** - Temporal-Internal Dimensional Encoding framework | [Demo](https://hillarydanan.github.io/TIDE/tide_interactive.html)
+- **[BIND](https://github.com/HillaryDanan/BIND)** - Boundary Information Neural Dynamics | [Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)
+- **[Game-Theory-Trust Suite](https://github.com/HillaryDanan/game-theory-trust-suite)** - Trust evolution models
+
+### Information Processing:
+- **[Information-Atoms](https://github.com/HillaryDanan/information-atoms)** - Discrete information processing
+- **[Concrete-Overflow-Detector](https://github.com/HillaryDanan/concrete-overflow-detector)** - Alternative processing patterns
+- **[Hexagonal-Consciousness Suite](https://github.com/HillaryDanan/hexagonal-consciousness-suite)** - Structural organization models
+
+### Integration:
+- **[Cognitive-Architectures-AI](https://github.com/HillaryDanan/cognitive-architectures-ai)** - Research overview
+
+## 💡 Approach
+
+Different cognitive architectures (neurotypical, autism, ADHD) represent alternative computational strategies. By understanding these differences mathematically, we can build more robust and adaptive systems.
+
+## 📊 Background
+- **PhD in Cognitive Neuroscience** - Neural representation of abstract concepts
+- **Data Science** - Applied neuroscience insights to real-world problems
+- **Current Work** - Interactive tools for exploring cognitive diversity
+
+## 🛠️ Technical Stack
+- **Languages**: Python, R, JavaScript
+- **ML/AI**: PyTorch, TensorFlow, scikit-learn
+- **Visualization**: D3.js, Canvas API, real-time simulations
+- **Neuroscience**: fMRI analysis, computational modeling
+
+---
+
+*"Different minds resonate with different rhythms - let's map the spectrum"*
