@@ -1,6 +1,8 @@
 # Hillary Danan
 **Data Scientist | Cognitive Neuroscience PhD | Exploring Cognitive Architectures for AI**
 
+### 🚀 [View My AI Research Portfolio](https://hillarydanan.github.io/pitch.html)
+
 ## 🌟 TIDE-Resonance
 
 **[TIDE-Resonance](https://github.com/HillaryDanan/TIDE-resonance)** - Interactive exploration of how different cognitive architectures build trust through shared experiences
