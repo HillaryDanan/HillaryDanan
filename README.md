@@ -123,7 +123,7 @@ Interested in exploring how these experimental approaches might apply to your AI
 
 - 📧 [Contact via GitHub](https://github.com/HillaryDanan)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/hillarydanan/)
-- 🌐 [Full Portfolio](https://hillarydanan.github.io/TIDE-resonance/docs/pitch.html)
+- 🌐 [Full Portfolio](https://hillarydanan.github.io/TIDE-resonance/pitch.html)
 
 ---
 
