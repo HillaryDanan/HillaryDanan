@@ -70,7 +70,7 @@ Interactive exploration of how different cognitive architectures build trust thr
 ## 📊 Portfolio Stats
 
 - **12+** Interactive Research Tools (and counting)
-- **Initial Sprint:** November 2024 (4 weeks)
+- **Initial Sprint:** June-July 2025 (4 weeks)
 - **Status:** Actively developing - this is a living portfolio
 - **Latest Addition:** AI Perception Study
 - **Currently Building:** Cross-model resonance patterns
