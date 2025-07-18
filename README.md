@@ -38,7 +38,7 @@ Different cognitive architectures (neurotypical, autism, ADHD) represent alterna
 ## 📊 Background
 - **PhD in Cognitive Neuroscience** - Neural representation of abstract concepts
 - **Data Science** - Applied neuroscience insights to real-world problems
-- **Current Work** - Interactive tools for exploring cognitive diversity
+- **Current Side Work** - Interactive tools for exploring cognitive diversity
 
 ## 🛠️ Technical Stack
 - **Languages**: Python, R, JavaScript
