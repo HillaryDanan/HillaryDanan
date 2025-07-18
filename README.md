@@ -122,7 +122,7 @@ Building on years of PhD research, I rapidly prototyped these interactive tools 
 Interested in exploring how these experimental approaches might apply to your AI systems?
 
 - 📧 [Contact via GitHub](https://github.com/HillaryDanan)
-- 🔗 [LinkedIn](#) <!-- Add your LinkedIn URL -->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hillarydanan/)
 - 🌐 [Full Portfolio](https://hillarydanan.github.io/TIDE-resonance/docs/pitch.html)
 
 ---
