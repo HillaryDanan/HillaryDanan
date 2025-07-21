@@ -22,6 +22,9 @@ My PhD research discovered that human brains achieve identical outcomes through 
 ### ⚡ Latest: TIDE-analysis
 Built an automated framework in 1 day that empirically tests how different AI models process identical inputs. [Explore the tool →](https://github.com/HillaryDanan/TIDE-analysis)
 
+### 🌟 Core Platform: TIDE-Resonance
+The central symphony integrating all research - explore how different cognitive architectures build trust and resonate through shared experiences. [Visit the platform →](https://hillarydanan.github.io/TIDE-resonance/)
+
 ---
 
 ## 📊 Research Tools
@@ -29,16 +32,17 @@ Built an automated framework in 1 day that empirically tests how different AI mo
 **14+ tools built in 4 weeks** - A complete ecosystem for AI architecture analysis:
 
 ### Featured Interactive Demos:
+- 🌟 **[TIDE Resonance Main](https://hillarydanan.github.io/TIDE-resonance/)** - Complete research platform
 - 🎯 **[AI Perception Study](https://hillarydanan.github.io/TIDE-resonance/collect.html)** - Live data collection on model processing patterns
+- 📊 **[3D Pattern Explorer](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Advanced architectural analysis
+- 🎵 **[TIDE Resonance Interactive](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)** - Musical synchronization patterns
 - 🔬 **[TIDE Interactive](https://hillarydanan.github.io/TIDE/tide_interactive.html)** - Explore temporal-internal dimensions
 - 🌐 **[BIND Systems Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)** - Boundary analysis visualization
 - 🔍 **[BIND Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)** - Deep analysis interface
-- 📊 **[3D Pattern Explorer](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Advanced architectural analysis
-- 🎵 **[TIDE Resonance Interactive](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)** - Musical synchronization patterns
-- 🌟 **[TIDE Resonance Main](https://hillarydanan.github.io/TIDE-resonance/)** - Complete research platform
 
 ### Core Repositories:
 - [TIDE-analysis](https://github.com/HillaryDanan/TIDE-analysis) - Automated empirical testing framework ⚡NEW
+- [TIDE-resonance](https://github.com/HillaryDanan/TIDE-resonance) - 🌟 **Core research platform** integrating all frameworks
 - [TIDE](https://github.com/HillaryDanan/TIDE) - Temporal Internal Dimension Exploration
 - [BIND](https://github.com/HillaryDanan/BIND) - Boundary-based processing detection
 - [Concrete Overflow](https://github.com/HillaryDanan/concrete-overflow-detector) - Alternative pathway identification
