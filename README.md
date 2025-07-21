@@ -93,7 +93,7 @@ The central symphony integrating all research - explore how different cognitive 
 **For AI research teams:** These tools offer empirical methods to understand your models beyond traditional benchmarks.
 
 - 📧 [hillarydanan@gmail.com](mailto:hillarydanan@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hillary-danan/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/hillarydanan/)
 - 📄 [Resume](https://hillarydanan.github.io/TIDE-resonance/resume.html)
 
 ---
