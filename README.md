@@ -31,14 +31,22 @@ Built an automated framework in 1 day that empirically tests how different AI mo
 ### Featured Interactive Demos:
 - 🎯 **[AI Perception Study](https://hillarydanan.github.io/TIDE-resonance/collect.html)** - Live data collection on model processing patterns
 - 🔬 **[TIDE Interactive](https://hillarydanan.github.io/TIDE/tide_interactive.html)** - Explore temporal-internal dimensions
-- 🌐 **[BIND Systems](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)** - Boundary analysis visualization
+- 🌐 **[BIND Systems Interactive](https://hillarydanan.github.io/BIND/bind_systems_interactive.html)** - Boundary analysis visualization
+- 🔍 **[BIND Research Tool](https://hillarydanan.github.io/BIND/bind_research_tool.html)** - Deep analysis interface
 - 📊 **[3D Pattern Explorer](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Advanced architectural analysis
+- 🎵 **[TIDE Resonance Interactive](https://hillarydanan.github.io/TIDE-resonance/interactive_resonance.html)** - Musical synchronization patterns
+- 🌟 **[TIDE Resonance Main](https://hillarydanan.github.io/TIDE-resonance/)** - Complete research platform
 
 ### Core Repositories:
-- [TIDE-analysis](https://github.com/HillaryDanan/TIDE-analysis) - Automated empirical testing framework
+- [TIDE-analysis](https://github.com/HillaryDanan/TIDE-analysis) - Automated empirical testing framework ⚡NEW
 - [TIDE](https://github.com/HillaryDanan/TIDE) - Temporal Internal Dimension Exploration
 - [BIND](https://github.com/HillaryDanan/BIND) - Boundary-based processing detection
 - [Concrete Overflow](https://github.com/HillaryDanan/concrete-overflow-detector) - Alternative pathway identification
+- [Hexagonal Consciousness Suite](https://github.com/HillaryDanan/hexagonal-consciousness-suite) - Alternative architectures
+- [Game Theory Trust Suite](https://github.com/HillaryDanan/game-theory-trust-suite) - Multi-agent dynamics
+- [Cognitive Architectures AI](https://github.com/HillaryDanan/cognitive-architectures-ai) - Meta-framework
+- [Information Atoms](https://github.com/HillaryDanan/information-atoms) - Discrete processing models
+- [Hexagonal Vision Research](https://github.com/HillaryDanan/hexagonal-vision-research) - Computer vision experiments
 
 [View all repositories →](https://github.com/HillaryDanan?tab=repositories)
 
