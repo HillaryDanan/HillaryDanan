@@ -2,7 +2,7 @@
 
 ## Empirical AI Cognitive Architecture Research | Neuroscience PhD
 
-I develop frameworks to empirically measure how AI models process information and reflect on their own cognition, applying methods validated through 60+ fMRI sessions including resting-state analysis of neurodiversity.
+I develop frameworks to empirically measure how AI models process information and reflect on their own cognition, applying methods validated through 60+ fMRI sessions including both task-based and resting-state analysis of neurodiversity.
 
 ### 🚀 [View Latest Results](https://hillarydanan.github.io/TIDE-resonance/tide-results.html) | [Live Dashboard](https://hillarydanan.github.io/TIDE-resonance/tide-analysis-results/LIVE_RESULTS.html)
 
@@ -11,8 +11,10 @@ I develop frameworks to empirically measure how AI models process information an
 ## 🔬 Research Innovation
 
 **First empirical framework combining:**
-- **Quantitative architecture mapping** (TIDE-analysis) - like task-based fMRI
+- **Quantitative architecture mapping** (TIDE-analysis) - like task-based fMRI  
 - **Metacognitive perception studies** (TIDE-resonance) - like resting-state fMRI
+
+My PhD work included multiple studies of both task and resting-state differences between ASD and NT processing, directly informing this dual approach.
 
 When AI models describe visualizations and reflect on their processing, they exhibit patterns analogous to Default Mode Network activation - providing an empirical window into AI metacognition.
 
@@ -32,10 +34,10 @@ When AI models describe visualizations and reflect on their processing, they exh
 ## 🧠 Neuroscience Foundation
 
 **PhD in Cognitive Neuroscience** - Rutgers University  
-*Resting-state and task-based fMRI analysis of abstract concept processing*
+*Task-based and resting-state fMRI analysis of abstract concept processing*
 
 - Developed 14-feature semantic framework through 60+ fMRI sessions
-- Specialized in resting-state differences between ASD and neurotypical processing
+- Specialized in both task and resting-state differences between ASD and neurotypical processing
 - Published research on alternative neural pathways achieving identical outcomes
 - Now applying these validated methods to AI systems
 
@@ -44,7 +46,7 @@ When AI models describe visualizations and reflect on their processing, they exh
 ## 🌊 Research Ecosystem
 
 ### Core Platforms
-- **[TIDE-resonance](https://hillarydanan.github.io/TIDE-resonance/)** - Complete research platform with live results
+- **[TIDE-resonance](https://github.com/HillaryDanan/TIDE-resonance)** - Complete research platform with live results
 - **[3D Pattern Explorer](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Interactive visualization of AI cognitive patterns
 - **[AI Perception Study](https://hillarydanan.github.io/TIDE-resonance/collect.html)** - Contribute to ongoing research
 
@@ -68,7 +70,7 @@ When AI models describe visualizations and reflect on their processing, they exh
 Empirical measurement of cognitive architectures provides data for understanding AI behavior patterns. The metacognitive analysis reveals how models conceptualize their own processing.
 
 ### For Neuroscience-AI Collaboration
-These frameworks bridge resting-state fMRI methods with AI analysis, enabling novel investigations into machine consciousness and self-awareness.
+These frameworks bridge task-based and resting-state fMRI methods with AI analysis, enabling novel investigations into machine consciousness and self-awareness.
 
 ### For Model Development
 Understanding architectural diversity informs the design of more robust, interpretable AI systems with measurable cognitive profiles.
@@ -107,6 +109,6 @@ Expanding the AI Perception Study to map how different models conceptualize dyna
 
 ### [🚀 View Latest Research Results](https://hillarydanan.github.io/TIDE-resonance/tide-results.html)
 
-*"Measuring AI metacognition through the lens of resting-state neuroscience"*
+*"Measuring AI metacognition through the lens of task-based and resting-state neuroscience"*
 
 </div>
