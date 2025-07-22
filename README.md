@@ -48,7 +48,7 @@ When AI models describe visualizations and reflect on their processing, they exh
 ### Core Platforms
 - **[TIDE-resonance](https://github.com/HillaryDanan/TIDE-resonance)** - Complete research platform with live results
 - **[3D Pattern Explorer](https://hillarydanan.github.io/TIDE-resonance/advanced_explorer.html)** - Interactive visualization of AI cognitive patterns
-- **[AI Perception Study](https://hillarydanan.github.io/TIDE-resonance/collect.html)** - Contribute to ongoing research
+- **[AI Perception Study](https://hillarydanan.github.io/TIDE-resonance/collect_enhanced.html)** - Contribute to ongoing research
 
 ### Analysis Frameworks
 - **[TIDE-analysis](https://github.com/HillaryDanan/TIDE-analysis)** - Automated empirical testing achieving 71.5% coherence differentiation
@@ -90,7 +90,7 @@ Understanding architectural diversity informs the design of more robust, interpr
 
 Expanding the AI Perception Study to map how different models conceptualize dynamic systems, directly paralleling resting-state self-referential processing in human brains.
 
-**[Participate in the Study →](https://hillarydanan.github.io/TIDE-resonance/collect.html)**
+**[Participate in the Study →](https://hillarydanan.github.io/TIDE-resonance/collect_enhanced.html)**
 
 ---
 
