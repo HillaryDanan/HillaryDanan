@@ -1,6 +1,6 @@
 # Hillary Danan
 
-## Empirical AI Cognitive Architecture Research | Neuroscience PhD
+## Empirical AI Cognitive Architecture Research | Cognitive Neuroscience PhD
 
 I develop frameworks to empirically measure how AI models process information and reflect on their own cognition, applying methods validated through 60+ fMRI sessions including both task-based and resting-state analysis of neurodiversity.
 
